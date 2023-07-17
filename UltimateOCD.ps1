@@ -15,9 +15,8 @@ $ExcludeDirs = @("")
 
 # Temporary Directory Path
 $TempDir = "C:\Ultimate_OCD"
-
 #=======================================================================================================================
-  
+
 # Uninstall-Oracle Function
 Function Uninstall-Oracle {
     param (
